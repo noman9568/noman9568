@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Noman Hussain</h1>
 
 <p align="center">
@@ -15,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-```javascript
+javascript
 const noman = {
     pronouns: "He" | "Him",
     education: "B.Tech IT @ ABES Engineering College (2022-2026)",
@@ -23,7 +22,7 @@ const noman = {
     askMeAbout: ["Web Dev", "JavaScript", "React", "Node.js", "MongoDB"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
-```
+
 
 - 🔭 Currently working on **Full-Stack MERN Projects**
 - 🌱 Learning **Advanced React & System Design**
