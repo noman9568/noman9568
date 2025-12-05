@@ -14,7 +14,6 @@
 
 ## 🙋‍♂️ About Me
 
-javascript
 const noman = {
     pronouns: "He" | "Him",
     education: "B.Tech IT @ ABES Engineering College (2022-2026)",
