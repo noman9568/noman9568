@@ -105,41 +105,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noman9568&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noman9568&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noman9568&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - ✅ Solved **150+ DSA problems** on competitive coding platforms
 - ✅ Developed **full-stack MERN projects** with real-world functionality
 - ✅ Certified in **HTML, CSS, JavaScript** - Infosys Springboard
 - ✅ Certified in **Data Science** - Cognitive Class
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noman9568&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<h3 align="center">💬 "Building the web, one line of code at a time!"</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
